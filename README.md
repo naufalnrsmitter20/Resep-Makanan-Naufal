@@ -1,5 +1,5 @@
-## Resep Makanan Nasi Goreng Spesial
-# Click [Landing Page](https://naufalnrsmitter20.github.io/Resep-Makanan-Naufal/public/index.html)
+# Resep Makanan Nasi Goreng Spesial
+## Click [Landing Page](https://naufalnrsmitter20.github.io/Resep-Makanan-Naufal/public/index.html)
 
 ![WhatsApp Image 2024-01-17 at 09 44 08_28bf76cc](https://github.com/naufalnrsmitter20/Resep-Makanan-Naufal/assets/128666209/e543cf5c-d9a6-4699-9e13-c394e23a6596)
 ![WhatsApp Image 2024-01-17 at 09 44 08_0ac03868](https://github.com/naufalnrsmitter20/Resep-Makanan-Naufal/assets/128666209/0b692343-e527-4f93-8e1b-0bbfb861d894)
